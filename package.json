@@ -1,0 +1,11 @@
+{
+  "name": "sde-assignment",
+  "version": "1.0.0",
+  "description": "SDE Assignment - Merge Time Ranges",
+  "main": "my-module.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Rajnish Chaube",
+  "license": "ISC"
+}
